@@ -338,3 +338,5 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/src/IdentityServer/identityserver4_log.txt
+/src/IdentityServer/tempkey.rsa
