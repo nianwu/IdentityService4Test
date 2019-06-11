@@ -340,3 +340,6 @@ ASALocalRun/
 healthchecksdb
 /src/IdentityServer/identityserver4_log.txt
 /src/IdentityServer/tempkey.rsa
+identityserver4_log.txt
+identityserver4_log.txt
+AspIdUsers.db
